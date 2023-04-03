@@ -1,6 +1,7 @@
 # Hi,I'm Evans👋
 
-![image](https://user-images.githubusercontent.com/66929420/222080716-a4e502df-d2f8-48cb-b685-f9a4d1a4378c.png)
+![tda](https://user-images.githubusercontent.com/66929420/229613249-5855f9d1-5549-425e-85cb-9747a4ed7525.png)
+
 
 I do insightful tutorials and informational videos on Data Science.
 
