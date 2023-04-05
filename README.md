@@ -6,7 +6,14 @@
 I do insightful tutorials and informational videos on Data Science.
 
 ### Main Languages and Tools:
-![image](https://user-images.githubusercontent.com/66929420/230061870-a076011f-2a81-44d8-b588-0b7b300df8ef.png)![image](https://user-images.githubusercontent.com/66929420/230061933-d17ccb87-d9b9-4da1-ac85-ed86cd1081b5.png)![image](https://user-images.githubusercontent.com/66929420/230061354-898f9961-7c67-4d15-a0b0-6f2069b572f9.png)![image](https://user-images.githubusercontent.com/66929420/230061595-7e0d79f8-056a-4e40-9318-8e663e79e59e.png)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 
 
 
