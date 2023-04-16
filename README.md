@@ -5,18 +5,24 @@
 
 **`I do insightful tutorials on Python/Data Analysis & informational videos on Machine Learning/Data Science.`**
 
---
 
-**`Find me around the web 🌎:`**
+---
+
+
 
 <p align="center">
+  
+  **`Find me around the web 🌎:`**
+  
   <a href="https://www.youtube.com/@thedataarmory"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/TheDataArmory"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
---
+
+---
+
 
  <p align="left">
   <a href="https://www.youtube.com/@thedataarmory?sub_confirmation=1">
@@ -28,6 +34,7 @@
       <a href="https://github.com/everndah?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/everndah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
 
 ---
 
