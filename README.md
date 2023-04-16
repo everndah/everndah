@@ -3,7 +3,7 @@
 ![tdabadge](https://user-images.githubusercontent.com/66929420/229615207-a7f948ef-35d0-43bd-a24d-2a84ce98b9ed.png)
 
 
-**`I do insightful tutorials on Python/Data Analysis & informational videos on Machine Learning/Data Science.`**
+**`I do insightful Python/Data Analysis tutorials & informational Machine Learning/Data Science videos.`**
 
 
 ---
