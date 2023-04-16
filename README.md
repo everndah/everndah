@@ -5,7 +5,9 @@
 
 **`I do insightful tutorials on Python/Data Analysis & informational videos on Machine Learning/Data Science.`**
 
---
+---
+
+### `Find me around the web 🌎:`
 
 <p align="center">
   <a href="https://www.youtube.com/@thedataarmory"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -45,6 +47,4 @@
 <img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />        
 <br />
 
-### Find me around the web 🌎:
-* Insightful Tutorials on : [The Data Armory](https://www.youtube.com/@thedataarmory)
-* Sharing updates on : [Twitter](https://twitter.com/TheDataArmory)
+
