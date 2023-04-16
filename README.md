@@ -8,20 +8,15 @@
 
 ---
 
-
+**`Find me around the web 🌎:`**
 
 <p align="center">
-  
-  **`Find me around the web 🌎:`**
   
   <a href="https://www.youtube.com/@thedataarmory"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/TheDataArmory"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-
----
 
 
  <p align="left">
