@@ -3,11 +3,6 @@
 ![tdabadge](https://user-images.githubusercontent.com/66929420/229615207-a7f948ef-35d0-43bd-a24d-2a84ce98b9ed.png)
 
 
-<p align="center">
-  <a href="https://github.com/everndah">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Evans Lang'o" /></a>
-</p>
-
 **`I do insightful tutorials on Python/Data Analysis & informational videos on Machine Learning/Data Science.`**
 
 
