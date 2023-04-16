@@ -2,16 +2,18 @@
 
 ![tdabadge](https://user-images.githubusercontent.com/66929420/229615207-a7f948ef-35d0-43bd-a24d-2a84ce98b9ed.png)
 
---
 
 **`I do insightful tutorials on Python/Data Analysis & informational videos on Machine Learning/Data Science.`**
+
 --
+
 <p align="center">
   <a href="https://www.youtube.com/@thedataarmory"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/TheDataArmory"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 ---
  <p align="left">
   <a href="https://www.youtube.com/@thedataarmory?sub_confirmation=1">
