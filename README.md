@@ -1,6 +1,10 @@
 
 
-<h3 align:"center"> Hi,I'm Evans | Instructor @ <a href="https://www.youtube.com/@thedataarmory">The Data Armory</a></h3>
+<p align="center">
+
+ <h3>Hi,I'm Evans | Instructor @ <a href="https://www.youtube.com/@thedataarmory">The Data Armory</a></h3>
+
+</p>
 
 
 <p align="center">
