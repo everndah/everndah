@@ -47,19 +47,21 @@
 ### Latest Youtube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Python Tutorial : Introduction to Python Strings (Without Code)](https://ytcards.demolab.com/?id=4Ui4PnrFC9Q&title=Python+Tutorial+%3A+Introduction+to+Python+Strings+%28Without+Code%29&lang=en&timestamp=1681369759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Python Tutorial : Introduction to Python Strings (Without Code)")](https://www.youtube.com/watch?v=4Ui4PnrFC9Q)
 [![NOTION AI Top Recommendations for DATA SCIENCE LEARNING](https://ytcards.demolab.com/?id=23vWhTPrVW4&title=NOTION+AI+Top+Recommendations+for+DATA+SCIENCE+LEARNING&lang=en&timestamp=1674660586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NOTION AI Top Recommendations for DATA SCIENCE LEARNING")](https://www.youtube.com/watch?v=23vWhTPrVW4)
 [![Python Tutorial: How to Write Comments in Python](https://ytcards.demolab.com/?id=iqWqg5szAOI&title=Python+Tutorial%3A+How+to+Write+Comments+in+Python&lang=en&timestamp=1669476608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Python Tutorial: How to Write Comments in Python")](https://www.youtube.com/watch?v=iqWqg5szAOI)
 [![How to Download Datasets for Data Science Projects](https://ytcards.demolab.com/?id=n3DWS_p-AtM&title=How+to+Download+Datasets+for+Data+Science+Projects&lang=en&timestamp=1667309464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to Download Datasets for Data Science Projects")](https://www.youtube.com/watch?v=n3DWS_p-AtM)
 [![How to DOWNLOAD KAGGLE Datasets Tutorial](https://ytcards.demolab.com/?id=7Jgur9q2ZVk&title=How+to+DOWNLOAD+KAGGLE+Datasets+Tutorial&lang=en&timestamp=1666180981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to DOWNLOAD KAGGLE Datasets Tutorial")](https://www.youtube.com/watch?v=7Jgur9q2ZVk)
 [![ESSENTIAL STATISTICAL Concepts for DATA ANALYSIS](https://ytcards.demolab.com/?id=g9w3GJr-HY0&title=ESSENTIAL+STATISTICAL+Concepts+for+DATA+ANALYSIS&lang=en&timestamp=1664395105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ESSENTIAL STATISTICAL Concepts for DATA ANALYSIS")](https://www.youtube.com/watch?v=g9w3GJr-HY0)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@thedataarmory?sub_confirmation=1)
 
 ### 📊 Github Stats
 
-![Everndah's GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox)
 
 ### 🔥 Streak Stats
 
