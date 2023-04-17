@@ -44,7 +44,7 @@
 
 ---
 
-### Latest Youtube Videos
+### Latest Youtube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -59,6 +59,10 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@thedataarmory?sub_confirmation=1)
 
-### Stats
+### 📊 Github Stats
 
 ![Everndah's GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox)
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=everndah&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
