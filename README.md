@@ -59,8 +59,7 @@
 
 ### 📊 Github Stats
 
-![Everndah's GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox) [![Everndah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everndah&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
-
+![Everndah's GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox)
 
 ### 🔥 Streak Stats
 
