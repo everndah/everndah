@@ -1,6 +1,6 @@
 
 
-<h3 align:"center">center>
+<h3 align:"center">
 Hi,I'm Evans | Instructor @ <a href="https://www.youtube.com/@thedataarmory">The Data Armory</a>
 </h3>
 
