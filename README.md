@@ -31,7 +31,7 @@
 
 ------
 
-### Languages and Tools
+### 🧰Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -47,7 +47,7 @@
 
 ---
 
-### Latest Youtube Videos:
+### 📺Latest Youtube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Python Tutorial : Introduction to Python Strings (Without Code)](https://ytcards.demolab.com/?id=4Ui4PnrFC9Q&title=Python+Tutorial+%3A+Introduction+to+Python+Strings+%28Without+Code%29&lang=en&timestamp=1681369759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Python Tutorial : Introduction to Python Strings (Without Code)")](https://www.youtube.com/watch?v=4Ui4PnrFC9Q)
