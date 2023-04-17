@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-**`I do insightful Python/Data Analysis tutorials & informational Machine Learning/Data Science videos.`**
+<code>I do insightful Python/Data Analysis tutorials & informational Machine Learning/Data Science videos</code>
 </p>
 
 <p align="center">
