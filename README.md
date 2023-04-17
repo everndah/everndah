@@ -1,12 +1,10 @@
+<p align="center">
 # Hi,I'm Evans👋
+</p>
 
-![tdabadge](https://user-images.githubusercontent.com/66929420/229615207-a7f948ef-35d0-43bd-a24d-2a84ce98b9ed.png)
-
+<p align="center">
 **`I do insightful Python/Data Analysis tutorials & informational Machine Learning/Data Science videos.`**
-
----
-
-**`Find me around the web 🌎:`**
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@thedataarmory"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -26,7 +24,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/everndah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+------
 
 ### Languages and Tools
 
