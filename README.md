@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<code>I write and make insightful Python/Data Analysis tutorials & informational Machine Learning/Data Science videos</code>
+<code>I write and make Python/Data Analysis tutorials & informational Machine Learning/Data Science videos</code>
 </p>
 
 <p align="center">
