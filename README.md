@@ -28,9 +28,7 @@
       <a href="https://github.com/everndah?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/everndah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   <br />
-
-------
+--
 
 ### Open to Work, ML Student, Data Analyst, Tutorials Creator.
 
