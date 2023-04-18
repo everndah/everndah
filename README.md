@@ -53,7 +53,9 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />        
+<img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />  
+<img align="left" alt="OBS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a> 
+<img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>     
 <br />
 
 ---
@@ -74,6 +76,12 @@
 ### 📊 Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox)
+
+### Top Languages
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="everndah's Top Languages" src="https://everndah-github-readme-stats.vercel.app/api/top-langs/?username=everndah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866,Roff" height="192px"/></a>
+  <br/>
+
 
 ### 🔥 Streak Stats
 
