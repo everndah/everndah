@@ -79,8 +79,8 @@
 
 ### Top Languages
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="everndah's Top Languages" src="https://everndah-github-readme-stats.vercel.app/api/top-langs/?username=everndah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
+<a href="https://github.com/everndah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everndah&langs_count=8&title_color=F85D7F&text_color=ffffff&layout=compact&theme=react&icon_color=F8D866&bg_color=1F222E&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="192px"/></a>
+<br/>
 
 ### 🔥 Streak Stats
 
