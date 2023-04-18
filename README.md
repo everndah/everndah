@@ -75,8 +75,7 @@
 
 ### 📊 Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox) 
-<a href="https://github.com/everndah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everndah&langs_count=8&title_color=F85D7F&text_color=ffffff&layout=compact&theme=react&icon_color=F8D866&bg_color=1F222E&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="192px"/></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=everndah&show_icons=true&theme=gruvbox) <a href="https://github.com/everndah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everndah&langs_count=8&title_color=F85D7F&text_color=ffffff&layout=compact&theme=react&icon_color=F8D866&bg_color=1F222E&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="192px"/></a>
 <br/>
 
 ### 🔥 Streak Stats
