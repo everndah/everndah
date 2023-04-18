@@ -28,8 +28,18 @@
       <a href="https://github.com/everndah?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/everndah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   <br />
 
 ------
+
+### Open to Work, ML Student, Data Analyst, Tutorials Creator.
+
+- 📙I'm currently working on [Python for Beginners Course Material!](https://everndah.github.io/python_tutorials/)
+- ✍️I'm currently building an online learning Platform [The Data Armory](www.youtube.com/@thedataarmory)
+- 💻I'm currently looking for Data Analyst Role.
+- 👨‍🎓I'm currently learning Machine Learning.
+- 📅2023 Goal: Finish creating full Data Analysis Course.
+<br />
 
 ### 🧰Languages and Tools
 
