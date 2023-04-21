@@ -56,7 +56,7 @@
 
 ---
 
-### 🧰Languages and Tools
+### 🧰Languages | Packages | Tools.
 
 <p>
 
@@ -79,7 +79,6 @@
 
  </p>
 </br>
-
 ---
 
 ### 📊 Github Stats
