@@ -30,7 +30,7 @@
 
 ### Open to Work, ML Student, Data Analyst, Tutorials Creator.
 
-- 📙I'm currently working on [Python for Beginners Course Material!](https://everndah.github.io/python_tutorials/)
+- 📙I'm currently working on [Python/Statistics for Beginners Course Materials!](https://everndah.github.io/the-data-armory/)
 - ✍️I'm currently building an online learning Platform [The Data Armory](www.youtube.com/@thedataarmory)
 - 📖My Portfolio [On Linkedin](https://www.linkedin.com/in/evanslango/)
 - 💻I'm currently looking for Data Analyst Role.
